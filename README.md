@@ -7,4 +7,4 @@ running code on terminal windows:
 3. extractcontent.pl  : > perl extractcontent.pl
 
 notes:
-> perl crawler.pl <n-day> <filename.txt>
+> perl crawler.pl [n-day] [filename.txt]
